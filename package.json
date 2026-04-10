@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "flexsearch": "^0.8.212",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-search": "1.0.4-alpha.22",
+    "vitepress-sidebar": "^1.33.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
